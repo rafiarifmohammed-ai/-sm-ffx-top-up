@@ -1,0 +1,8 @@
+{
+  "name": "sm-ffx-top-up",
+  "version": "1.0.0",
+  "description": "SM FFX TOP UP - Free Fire top-up website",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=16.0.0" }
+}
